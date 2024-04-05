@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/markdown-layout.astro
 title: My Second Blog Post
-author: 'Astro Learner <e23thr@gmail.com>'
+author: 'e23thr@gmail.com (Astro Learner)'
 description: "After learning some Astro, I couldn't stop!"
 image:
     url: "https://docs.astro.build/assets/arc.webp"
